@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+A meta file is created in the directory called .git which tracks changes in files. To be able to track the content of this directories.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Is an area that stores any modificatins made to a file and waits command to commit to the repository. 
